@@ -1,0 +1,40 @@
+{
+  "name": "spooky-sprite",
+  "version": "1.0.0",
+  "description": "A spritesheet element with image-mask support",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Max Rusan",
+    "email": "max@maxtherocket.com",
+    "url": "https://github.com/maxtherocket"
+  },
+  "dependencies": {
+    "aspect-fill": "^1.0.1",
+    "extend": "^3.0.0",
+    "gsap": "^1.19.0",
+    "mixes": "^1.0.4",
+    "prefix": "^1.0.0",
+    "raf-loop": "^1.1.3",
+    "spooky-element": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "sprite,",
+    "spritesheet,",
+    "spooky,",
+    "element,",
+    "dom"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/maxtherocket/spooky-sprite.git"
+  },
+  "homepage": "https://github.com/maxtherocket/spooky-sprite",
+  "bugs": {
+    "url": "https://github.com/maxtherocket/spooky-sprite/issues"
+  }
+}
